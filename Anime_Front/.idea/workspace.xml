@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c324fe78-0627-430c-861a-a6066635d8f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Anime_Front\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWW93ofHzI5RxKyhZqBqfKzVEW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.LogIn.html">
+    <configuration name="ArticleList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Anime_Front/ArticleList.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Article.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Anime_Front/Article.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="LogIn.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Anime_Front/LogIn.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="QuestionList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Anime_Front/QuestionList.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Question.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Anime_Front/Question.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.LogIn.html" />
+        <item itemvalue="JavaScript Debug.ArticleList.html" />
+        <item itemvalue="JavaScript Debug.QuestionList.html" />
+        <item itemvalue="JavaScript Debug.Question.html" />
+        <item itemvalue="JavaScript Debug.Article.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c324fe78-0627-430c-861a-a6066635d8f8" name="Default Changelist" comment="" />
+      <created>1605816673073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605816673073</updated>
+      <workItem from="1605816679299" duration="10922000" />
+      <workItem from="1606238317799" duration="44000" />
+      <workItem from="1606401528052" duration="1199000" />
+      <workItem from="1606936006028" duration="645000" />
+      <workItem from="1606948444163" duration="971000" />
+      <workItem from="1607001975150" duration="621000" />
+      <workItem from="1607362176089" duration="164000" />
+      <workItem from="1607514501314" duration="4000" />
+      <workItem from="1607515023731" duration="25000" />
+      <workItem from="1607515056164" duration="938000" />
+      <workItem from="1607644865440" duration="922000" />
+      <workItem from="1607686848522" duration="15106000" />
+      <workItem from="1607811807879" duration="870000" />
+      <workItem from="1607873903086" duration="1045000" />
+      <workItem from="1607952429474" duration="599000" />
+      <workItem from="1607957054561" duration="17050000" />
+      <workItem from="1608137268027" duration="2354000" />
+      <workItem from="1608150127706" duration="17575000" />
+      <workItem from="1608208696871" duration="5074000" />
+      <workItem from="1608242471163" duration="8057000" />
+      <workItem from="1608290964601" duration="5465000" />
+      <workItem from="1608313796378" duration="18757000" />
+      <workItem from="1608472984162" duration="21715000" />
+      <workItem from="1608551119085" duration="23391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608565779943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608565779943" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1608574833765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833765" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1608574833765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833765" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1608574833765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833765" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1608574833765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833765" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1608574833765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833765" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1608574833766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608574833766" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1608068738368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608068738368" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608157407270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608157407270" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608563738483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608563738483" />
+  </component>
+</project>
